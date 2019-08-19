@@ -11,7 +11,7 @@ E-mail: 1076125760@qq.com
 Github: https://github.com/AmosLc/AmosLc.github.io
 
 #### Enter My Repositories:[Please Click Here！](https://github.com/AmosLc?tab=repositories)
-
+#### Enter My Study Daily:[Please Click Here！](https://github.com/AmosLc/MyStudyDaily)
 
 
 
