@@ -10,6 +10,10 @@ E-mail: 1076125760@qq.com
 
 Github: https://github.com/AmosLc/AmosLc.github.io
 
+##### EnterMyRepositories:
+[PleaseClickHere！](https://github.com/AmosLc?tab=repositories)
+
+
 
 
 ### Interests
@@ -25,5 +29,6 @@ Github: https://github.com/AmosLc/AmosLc.github.io
 ### Papers
 
 None
+
 
 
